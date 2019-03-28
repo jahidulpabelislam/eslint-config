@@ -366,7 +366,7 @@
         ],
         "wrap-iife": [
             "error",
-            "outside"
+            "inside"
         ],
         "yoda": [
             "error",
